@@ -1,0 +1,650 @@
+Product Type,Program Name,Policy Begin Date,Policy End Date,Carrier,Number of Location Assets,State of Assets,ZipCode of Assets,Premium per Asset,Dwelling Limit per Asset,Dwelling deductible per Asset
+Commercial Property Policy,Freddie Mac | Multi-Family,9/30/23,9/30/24,AegisShield Insurance,1,FL,33147,44301,2200000,10000
+General Liability Policy,Freddie Mac | Multi-Family,9/30/23,9/30/24,GuardianTrust Insurance,1,FL,33147,6815.2,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,PrimeLife Assurance,1,MA,2138,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,10/07/2023,10/07/2024,SecureWay Insurance,1,NY,11222,12993,6435520,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,9/30/23,9/30/24,ApexGuard Insurance,1,FL,33147,2953,N/A,N/A
+Flood Policy,Freddie Mac | Multi-Family,9/14/23,9/14/24,Pinnacle Protectors,1,FL,33147,3456,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,03/12/2023,03/12/2024,Sentinel Assurance,1,TX,78223,69523.4,8200000,25000
+General Commercial Package Policy,Freddie Mac | Multi-Family,7/22/23,7/22/24,Zenith Shield Insurance,1,CA,93726,25260,15859449,50000
+General Liability Policy,Freddie Mac | Multi-Family,12/08/2022,12/08/2023,SafeHarbor Insurance,1,TX,78223,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,7/22/23,7/22/24,SummitShield Insurance,1,CA,93726,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,7/22/23,7/22/24,Zenith Shield Insurance,1,CA,93726,42518.78,15859449,50000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,09/08/2023,09/08/2024,SummitShield Insurance,1,CA,93726,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/15/22,5/15/23,HorizonGuard Insurance,1,TX,75041,17463,2454800,50000
+General Liability Policy,Freddie Mac | Multi-Family,5/15/22,5/15/23,EverSafe Assurance,1,TX,75041,1853,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/15/22,5/15/23,LibertyGuard Insurance,1,TX,75041,2053,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,10/27/22,10/27/23,NovaShield Insurance,1,TX,78752,N/A,2210000,25000
+General Liability Policy,Freddie Mac | Multi-Family,10/27/23,10/27/24,EliteGuard Insurance,1,TX,78752,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/17/22,11/17/23,Vanguard Assurance,1,OH,45385,15837,7150000,25000
+General Commercial Package Policy,Freddie Mac | Multi-Family,10/20/21,10/20/22,LegacyShield Insurance,1,TX,75206,14787,2945200,1000
+Commercial Property Policy,Freddie Mac | Multi-Family,8/15/22,8/15/23,SecureLine Insurance,1,TX,77086,69149.77,8028288,75000
+General Liability Policy,Freddie Mac | Multi-Family,12/14/21,12/14/22,AtlasGuard Insurance,1,TX,77086,1723,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/14/21,12/14/22,Paramount Protectors,1,TX,77086,589,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,06/11/2022,06/11/2023,UnityShield Insurance,1,OH,45431,14023,3630948,10000
+Commercial Property Policy,Freddie Mac | Multi-Family,10/21/21,10/21/22,TitanGuard Insurance,1,TX,77017,44713.97,3650000,5000
+General Liability Policy,Freddie Mac | Multi-Family,10/21/21,10/21/22,Infinite Assurance,1,TX,77017,3189.72,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,10/21/21,10/21/22,Trident Insurance Co.,1,TX,77017,1783.73,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,9/22/23,9/22/24,Zenith Shield Insurance,1,CA,93710,22678,9880133,25000
+Commercial Property Policy,Freddie Mac | Multi-Family,8/26/22,8/26/23,BrightGuard Insurance,1,TX,77017,19750,2404336,10000
+General Liability Policy,Freddie Mac | Multi-Family,8/26/22,8/26/23,TerraSafe Assurance,1,TX,77017,4300,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,10/13/23,10/13/24,OmniShield Insurance,1,IL,60628,9913.88,2800000,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,09/01/2022,09/01/2023,Equinox Guard,1,MD,21231,7362,1725000,10000
+Commercial Property Policy,Freddie Mac | Multi-Family,11/03/2021,11/03/2022,Frontier Assurance,1,MN,55408,11784,6641700,15000
+General Liability Policy,Freddie Mac | Multi-Family,11/03/2021,11/03/2022,Prestige Protectors,1,MN,55408,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,11/03/2021,11/03/2022,Frontier Assurance,1,MN,55408,10889,6664200,15000
+General Liability Policy,Freddie Mac | Multi-Family,11/03/2021,11/03/2022,Prestige Protectors,1,MN,55408,N/A,N/A,N/A
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,10/20/23,10/20/24,QuantumGuard Insurance,1,WA,98201,20023.82,7700000,25000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/08/2022,11/08/2023,EverTrust Insurance,1,CA,92020,10269.6,4717648,2500
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/21/22,11/21/23,SecureWay Insurance,1,TX,75204,11689,1881802,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,11/21/22,11/21/23,AtlasGuard Insurance,1,TX,75204,422.58,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,7/23/22,7/23/23,HorizonGuard Insurance,1,NJ,7065,N/A,1523772,2500
+General Liability Policy,Freddie Mac | Multi-Family,7/23/22,7/23/23,SkyGuard Insurance,1,NJ,7065,N/A,N/A,N/A
+Flood Policy,Freddie Mac | Multi-Family,08/08/2022,08/08/2023,Pinnacle Protectors,1,NJ,7065,3003.65,N/A,N/A
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,4/26/22,4/26/23,DiamondShield Insurance,1,OH,43235,7810,2845700,25000
+General Commercial Package Policy,Freddie Mac | Multi-Family,10/05/2023,10/05/2024,PrimeGuard Insurance,1,NJ,7111,21919,5580000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,8/19/22,8/19/23,SecureWay Insurance,1,NY,11377,8535.77,2100000,5000
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,10/10/2022,10/10/2023,Ascend Assurance,1,KY,40047,12136.32,5100000,2500
+Umbrella Liability Policy,Freddie Mac | Multi-Family,10/10/2022,10/10/2023,Ascend Assurance,1,KY,40047,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,6/13/23,6/13/24,CoralShield Insurance,1,NJ,7701,45674,24000000,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,6/13/23,6/13/24,ApexGuard Insurance,1,NJ,7701,3558.79,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,7/14/23,4/30/24,CrestGuard Insurance,1,SC,29841,3897.16,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,3/24/23,3/24/24,Pinnacle Protectors,1,FL,33021,N/A,4000000,2500
+General Liability Policy,Freddie Mac | Multi-Family,3/24/23,3/24/24,InfinityShield Insurance,1,FL,33021,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,3/24/23,3/24/24,ApexGuard Insurance,1,FL,33021,N/A,N/A,N/A
+Earthquake Policy,Freddie Mac | Multi-Family,9/29/23,9/29/24,HorizonGuard Insurance,1,CA,93704,4734.58,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,7/14/23,4/30/24,RadiantGuard Insurance,1,SC,29841,25000,N/A,N/A
+Terrorism Package Policy,Freddie Mac | Multi-Family,7/14/23,4/30/24,HorizonGuard Insurance,1,SC,29841,N/A,100000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,7/14/23,4/30/24,SummitSafe Assurance,1,SC,29841,N/A,50000000,250000
+Commercial Property Policy,Freddie Mac | Multi-Family,05/09/2022,05/09/2023,HorizonGuard Insurance,1,FL,33060,N/A,3050000,25000
+General Liability Policy,Freddie Mac | Multi-Family,06/09/2022,06/09/2023,TrueNorth Insurance,1,FL,33060,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,06/09/2022,06/09/2023,Trident Insurance Co.,1,FL,33060,N/A,N/A,N/A
+Flood Policy,Freddie Mac | Multi-Family,06/09/2022,06/09/2023,Pinnacle Protectors,1,FL,33060,11323.2,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,10/13/23,10/13/24,UnityTrust Insurance,1,NY,10960,11954.35,2800000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,01/11/2023,01/11/2024,ValorGuard Insurance,1,CT,6902,121443,31000000,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,01/11/2023,01/11/2024,VitalShield Insurance,1,CT,6902,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,10/30/23,10/30/24,UnityTrust Insurance,1,NY,10467,16542.15,6880000,5000
+General Liability Policy,Freddie Mac | Multi-Family,10/30/23,10/30/24,Zenith Assurance,1,NY,10467,13042.42,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,4/24/23,4/24/24,ApexSafe Insurance,1,FL,33401,227743.5,23111735,25000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,BrightLine Insurance,1,FL,33401,21626,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,9/19/23,9/19/24,EliteShield Insurance,1,TX,78724,154553,34084262,25000
+General Liability Policy,Freddie Mac | Multi-Family,9/19/23,9/19/24,EquitableGuard Insurance,1,TX,78724,26275,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,9/19/23,9/19/24,EverBright Assurance,1,TX,78724,28218,N/A,N/A
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,5/18/23,5/18/24,GenesisShield Insurance,1,KY,40258,58544,32059727,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/18/23,5/18/24,GlobalGuard Insurance,1,KY,40258,3429.77,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,GoldenShield Insurance,1,FL,33401,45213,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,HorizonGuard Insurance,1,FL,33401,0,25000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/15/23,5/15/24,HeritageGuard Insurance,1,NC,27614,197833.67,700000000,100000
+General Liability Policy,Freddie Mac | Multi-Family,5/15/23,5/15/24,HorizonSafe Insurance,1,NC,27614,75745.15,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/15/23,5/15/24,LibertySafe Assurance,1,NC,27614,0,N/A,N/A
+Terrorism Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,HorizonGuard Insurance,1,FL,33401,509,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,4/28/23,4/28/24,LifetimeGuard Insurance,1,NY,11221,5386,4150000,5000
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,5/21/23,5/21/24,MeridianShield Insurance,1,GA,30337,7661,1290000,15000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/08/2023,11/08/2024,UnityTrust Insurance,1,NY,11226,8408,4100000,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,10/13/23,10/13/24,NationalGuard Insurance,1,NY,10960,1057,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,12/08/2023,12/08/2024,HorizonGuard Insurance,1,RI,2911,13231.84,2250000,5000
+General Liability Policy,Freddie Mac | Multi-Family,12/08/2023,12/08/2024,NexusSafe Assurance,1,RI,2911,4211.24,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,10/19/23,10/19/24,ParamountGuard Insurance,1,RI,2911,1280,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,09/04/2023,09/04/2024,PrestigeGuard Insurance,1,NY,14220,64546.16,15273409,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,4/28/23,4/28/24,LifetimeGuard Insurance,1,NY,11221,500,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,ProSafe Assurance,1,OH,44127,61477,17580188,25000
+General Liability Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,QuantumShield Insurance,1,OH,44127,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,EverBright Assurance,1,OH,44127,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,ProSafe Assurance,1,OH,44109,48865,13605827,25000
+General Liability Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,EquitableGuard Insurance,1,OH,44109,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,RadiantShield Insurance,1,OH,44109,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,8/18/23,8/18/24,CoralShield Insurance,3,"OH, OH, OH","44714, 44718, 44709","20193, 30178, 19540","14179187, 22044799, 14068518","50000, 50000, 50000"
+General Commercial Package Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,ReliableGuard Insurance,1,MO,64063,30026,6965000,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,AtlasGuard Insurance,1,MO,64063,1780.75,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,11/08/2023,11/08/2024,UnityTrust Insurance,1,NY,11226,1250,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,10/30/23,10/30/24,SecurePoint Insurance,1,NY,10467,2320,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,05/01/2023,05/01/2024,SentinelGuard Insurance,1,NY,10566,46883.22,27994472,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,09/04/2023,09/04/2024,SecurePoint Insurance,1,NY,14220,4500,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,LibertyGuard Insurance,1,NJ,7111,31610.67,5600000,100000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,EverBright Assurance,1,NJ,7111,7308.28,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,07/01/2023,07/01/2024,SkySafe Assurance,1,TX,78728,75054,22031289,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,07/01/2023,07/01/2024,GlobalGuard Insurance,1,TX,78728,3455,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,07/01/2023,07/01/2024,StarGuard Insurance,1,CT,6106,N/A,4200000,10000
+General Liability Policy,Freddie Mac | Multi-Family,5/16/23,5/16/24,SummitGuard Insurance,1,CT,6106,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TerraGuard Insurance,1,NY,10705,9004,1800000,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,SummitGuard Insurance,1,NY,10705,1500,N/A,N/A
+Flood Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,Pinnacle Protectors,1,NY,10705,6346.71,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,10/25/23,10/25/24,TitanShield Insurance,1,NY,10960,16107,4000000,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,10/25/23,10/25/24,GuardianTrust Insurance,1,NY,10960,257,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,LibertyGuard Insurance,1,NJ,7114,N/A,32219400,100000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,EverBright Assurance,1,NJ,7114,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,LibertyGuard Insurance,1,MD,21213,333482.24,37711295,100000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,EverBright Assurance,1,MD,21213,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,EverBright Assurance,1,PA,19144,62206.86,5580000,100000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,EverBright Assurance,1,PA,19144,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,LibertyGuard Insurance,1,NY,10453,N/A,15900000,100000
+General Commercial Package Policy,Freddie Mac | Multi-Family,1/15/23,1/15/24,TrueGuard Insurance,1,IL,60640,12081,8500000,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,1/15/23,1/15/24,TrueGuard Insurance,1,IL,60640,1170,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,03/05/2024,03/05/2025,GuardianTrust Insurance,1,CA,90022,11807,1130000,2500
+Boiler and Machinery / Equipment Breakdown Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,UnitySafe Assurance,1,NY,10705,687,1966225,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/15/23,12/15/24,Zenith Shield Insurance,1,CA,92021,29607,7321925,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/15/23,12/15/24,ParamountGuard Insurance,1,CA,92021,4831.67,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,6/30/23,6/30/24,HorizonGuard Insurance,1,OH,43604,89458,30800000,25000
+General Liability Policy,Freddie Mac | Multi-Family,2/13/24,2/13/25,ValorSafe Insurance,1,OH,43604,27867.25,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/28/22,12/28/23,CoralShield Insurance,1,IN,46410,107244,54173000,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/28/22,12/28/23,CoralShield Insurance,1,IN,46410,8471,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,IN,46013,11494,100000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,MI,48801,7403.92,196512,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,IN,46016,6631.45,40000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,WI,54154,5318.51,170000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,ID,83704,7641.8,96400,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,KY,41041,9725.37,160000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,MI,49783,24047.43,276000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,ID,83338,9216.45,316000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,NM,88345,13998.57,130000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,WI,54476,29778.26,520000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,MO,63010,34738,785000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,MN,55388,19514.64,480610,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,IL,62239,13483.57,305000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,TX,77511,67761.19,192000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,MN,56011,18764.74,1272160,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,NM,87123,14213.07,981800,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,IL,61550,115028.4,1542900,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,TX,75180,25148.41,963400,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,NM,87401,41213.75,788240,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,WI,54904,N/A,360000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,IL,61348,7936.29,115000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,WI,54126,N/A,20000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,NM,87301,34685.08,250000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,IL,61764,41671.78,2070000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,WI,54129,N/A,80000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,NM,87020,12373.55,240000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,TX,76053,18442.56,470000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,IN,46563,5657.88,240000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,WI,54703,7194.18,270000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/15/23,12/15/24,VanguardShield Insurance,1,WI,54901,N/A,80000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,WI,53536,7509.56,101600,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,TX,77502,20334.14,37000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,WI,54082,12312.51,1175400,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/15/23,12/15/24,VanguardShield Insurance,1,WI,54929,N/A,80000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,VanguardShield Insurance,1,VA,24540,8288.61,346000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/15/23,12/15/24,VanguardShield Insurance,1,MO,63026,54003.88,100000,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,EverBright Assurance,1,NY,10453,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,EverBright Assurance,1,NJ,7501,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,EverBright Assurance,1,NJ,7104,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,12/15/22,12/15/23,BrightLine Insurance,1,TX,75224,28682,3250000,25000
+General Liability Policy,Freddie Mac | Multi-Family,12/29/22,12/29/23,NexusSafe Assurance,1,TX,75224,4046.95,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/29/22,12/29/23,VictoryGuard Insurance,1,TX,75224,1318.9,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,2/29/24,2/28/25,BrightLine Insurance,1,OH,45140,N/A,38057260,25000
+General Liability Policy,Freddie Mac | Multi-Family,2/29/24,2/28/25,RadiantShield Insurance,1,OH,45140,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,2/29/24,2/28/25,AtlasGuard Insurance,1,OH,45140,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,2/29/24,2/28/25,BrightLine Insurance,1,OH,45244,N/A,38057260,N/A
+General Liability Policy,Freddie Mac | Multi-Family,2/29/24,2/28/25,GoldenShield Insurance,1,OH,45244,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,2/29/24,2/28/25,AtlasGuard Insurance,1,OH,45244,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,2/14/23,2/14/24,VitalGuard Insurance,1,NC,27106,17153,3201000,25000
+General Liability Policy,Freddie Mac | Multi-Family,2/14/24,2/14/25,ZenithGuard Insurance,1,NC,27106,6895,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,2/14/23,2/14/24,ZenithGuard Insurance,1,NC,27106,6896,N/A,N/A
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,5/29/23,5/29/24,UnityTrust Insurance,1,NY,12206,34766.93,10333000,5000
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,01/12/2024,01/12/2025,ApexTrust Insurance,1,NC,27408,30176,7400000,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,11/30/23,11/30/24,Frontier Assurance,1,OH,43214,534,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/30/23,11/30/24,Frontier Assurance,1,OH,43214,35386,8333000,10000
+Commercial Property Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,LibertyGuard Insurance,1,NJ,7104,54708.83,7900000,100000
+General Liability Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,LibertyGuard Insurance,1,NJ,7104,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,2/13/24,2/13/25,ValorSafe Insurance,1,OH,43604,19265.4,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,LibertyGuard Insurance,1,NJ,7501,59827.31,6000000,100000
+General Liability Policy,Freddie Mac | Multi-Family,05/08/2023,05/08/2024,LibertyGuard Insurance,1,NJ,7501,10504.68,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,WI,54129,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,WI,54901,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,WI,54929,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,MI,48801,3431.58,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,MI,49783,8364.62,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,MN,55388,4790.58,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,NM,87123,6026.46,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,NM,87401,24187.74,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,NM,87301,21618.63,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,NM,87020,6774.67,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,WI,54154,1893.17,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,NM,88345,6583.8,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,TX,77511,4169.29,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,TX,75180,4033.78,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,TX,76053,1845.7,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,TX,77502,1904.62,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,VA,24540,4353.48,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,MO,63026,13645.99,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,IN,46013,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,IN,46016,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,MO,63010,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,MN,56011,2741.25,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,WI,54703,2332.17,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,WI,53536,3477.39,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,WI,54082,3482.16,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,ID,83704,4464.19,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,ID,83338,5444.68,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,IL,62239,5307.83,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,IL,61550,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,IL,61348,2985.13,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,IL,61764,10018.5,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,IN,46563,1855.95,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,KY,41041,3633.9,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,WI,54476,14118.39,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,WI,54904,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/27/23,12/27/24,BrightShield Insurance,1,WI,54126,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,12/15/23,12/15/24,UnityTrust Insurance,1,NY,10460,4569.21,5823572,5000
+General Liability Policy,Freddie Mac | Multi-Family,12/15/23,12/15/24,CrestSafe Assurance,1,NY,10460,9153.21,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/15/23,12/15/24,NationalGuard Insurance,1,NY,10460,1290,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,01/12/2024,01/12/2025,ApexTrust Insurance,1,NC,27408,2922,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,3/29/23,3/29/24,HorizonGuard Insurance,1,LA,70119,863828,63969000,25000
+General Liability Policy,Freddie Mac | Multi-Family,11/15/23,11/15/24,DiamondGuard Insurance,1,LA,70119,35755,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,11/15/23,11/15/24,EliteSafe Insurance,1,LA,70119,26225,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/15/23,5/15/24,HorizonGuard Insurance,1,FL,32708,460761,43700000,50000
+General Liability Policy,Freddie Mac | Multi-Family,11/15/23,11/15/24,EquinoxShield Insurance,1,FL,32708,56009,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,11/15/23,11/15/24,EverTrust Insurance,1,FL,32708,0,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,5/15/23,5/15/24,HorizonGuard Insurance,1,FL,32708,0,43700000,N/A
+General Liability Policy,Freddie Mac | Multi-Family,05/01/2023,05/01/2024,HorizonSafe Insurance,1,NY,10566,49800,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,05/01/2023,05/01/2024,HorizonSafe Insurance,1,NY,10566,8818.75,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,07/01/2023,07/01/2024,FrontierGuard Insurance,1,WI,53223,29458,305450552,10000
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,3/14/23,3/14/24,GenesisGuard Insurance,1,CA,90044,5431,2388056,1000
+Commercial Property Policy,Freddie Mac | Multi-Family,6/26/23,6/26/24,TitanGuard Insurance,1,NY,10026,47093.49,15000000,10000
+General Liability Policy,Freddie Mac | Multi-Family,6/26/23,6/26/24,GoldenGuard Insurance,1,NY,10026,41815.36,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,6/26/23,6/26/24,GoldenGuard Insurance,1,NY,10026,27006.08,N/A,N/A
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family | SBL,9/26/23,9/26/24,GenesisGuard Insurance,1,CA,90280,5124,2050500,25000
+General Commercial Package Policy,Freddie Mac | Multi-Family | SBL,04/01/2023,04/01/2024,HeritageSafe Assurance,1,CA,90660,3803,2340000,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,4/21/23,4/21/24,Frontier Assurance,1,MD,20912,51908.7,34870000,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,10/31/23,10/31/24,EverBright Assurance,1,MD,20912,18307.35,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,06/01/2023,06/01/2024,HorizonGuard Insurance,1,NY,11249,15430,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,06/01/2023,06/01/2024,ApexGuard Insurance,1,NY,11249,0,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,05/01/2023,05/01/2024,LegacySafe Assurance,1,SC,29201,205954.41,43459750,25000
+General Liability Policy,Freddie Mac | Multi-Family,05/01/2023,05/01/2024,LibertyGuard Insurance,1,SC,29201,25986.84,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,05/01/2023,05/01/2024,EverBright Assurance,1,SC,29201,36146.23,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,12/01/2023,12/01/2024,BrightLine Insurance,1,OH,43201,69876,500000000,50000
+General Liability Policy,Freddie Mac | Multi-Family,12/01/2023,12/01/2024,LifetimeShield Insurance,1,OH,43201,7706,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/01/2023,12/01/2024,LifetimeShield Insurance,1,OH,43201,10048,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,12/01/2023,12/01/2024,MeridianGuard Insurance,1,OH,43201,N/A,500000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,6/30/23,6/30/24,NationalSafe Insurance,1,NY,11249,93217,800000000,10000
+Terrorism Property Policy,Freddie Mac | Multi-Family,6/30/23,6/30/24,HorizonGuard Insurance,1,NY,11249,0,800000000,N/A
+Wind/Hail Policy,Freddie Mac | Multi-Family,1/22/24,1/22/25,VitalGuard Insurance,1,NC,28557,24864,3713200,N/A
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,1/22/24,1/22/25,NexusGuard Insurance,1,NC,28557,3629,3712984,2500
+Commercial Property Policy,Freddie Mac | Multi-Family,5/31/23,5/31/24,HorizonGuard Insurance,1,NY,11735,318269,48350000,250000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,CoralShield Insurance,1,NY,11735,34206.48,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,ParamountSafe Assurance,1,NY,11735,10934,N/A,N/A
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,3/14/24,3/14/25,GenesisGuard Insurance,1,CA,90044,9573,2388056,1000
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,HorizonGuard Insurance,1,FL,33032,150132,24200000,25000
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,HorizonGuard Insurance,1,FL,33032,1392,24200000,N/A
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,BrightLine Insurance,1,FL,33032,34513,N/A,N/A
+Terrorism Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,HorizonGuard Insurance,1,FL,33032,0,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,GoldenShield Insurance,1,FL,33032,72141,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,5/31/23,5/31/24,PrestigeSafe Insurance,1,NY,11735,0,48350000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,12/17/23,12/17/24,ProGuard Insurance,1,MA,2210,23125.96,500000000,50000
+General Liability Policy,Freddie Mac | Multi-Family,12/17/23,12/17/24,QuantumGuard Assurance,1,MA,2210,4845.02,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/17/23,12/17/24,NovaShield Insurance,1,MA,2210,10398.03,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,6/30/23,6/30/24,RadiantSafe Insurance,1,WA,98133,N/A,2336250,5000
+Commercial Property Policy,Freddie Mac | Multi-Family,12/04/2023,12/04/2024,ReliableSafe Assurance,1,LA,70062,74807.87,3586497,10000
+General Liability Policy,Freddie Mac | Multi-Family,12/04/2023,12/04/2024,SecureGuard Insurance,1,LA,70062,7362,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/04/2023,12/04/2024,VictoryGuard Insurance,1,LA,70062,542,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,12/04/2023,12/04/2024,ReliableSafe Assurance,1,LA,70053,N/A,6671259,10000
+General Liability Policy,Freddie Mac | Multi-Family,12/04/2023,12/04/2024,SecureGuard Insurance,1,LA,70053,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/04/2023,12/04/2024,VictoryGuard Insurance,1,LA,70053,N/A,N/A,N/A
+Flood Policy,Freddie Mac | Multi-Family,12/04/2023,12/04/2024,Pinnacle Protectors,1,LA,70053,18179,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,3/15/24,3/15/25,Frontier Assurance,1,WA,99201,6333,2386000,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,3/15/24,3/15/25,Frontier Assurance,1,WA,99201,814,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,3/15/24,3/15/25,Frontier Assurance,1,OR,97005,10358,5957000,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,2/26/24,2/26/25,SentinelSafe Insurance,1,TX,77040,70422.1,5857011,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,2/26/24,2/26/25,SummitGuard Insurance,1,TX,77040,1000,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,SkyShield Insurance,1,NC,28314,97121,26233200,75000
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,EverSafe Assurance,1,NC,28314,0,26233200,N/A
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,StarSafe Assurance,1,NC,28314,0,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2023,04/01/2024,StarSafe Assurance,1,NC,28314,0,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,2/14/23,2/14/24,ZenithGuard Insurance,1,NC,27106,6896,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,12/10/2023,12/10/2024,SummitSafe Insurance,2,"TX, TX","77004, 77004","72588, 0","10000000, 10000000","10000, 10000"
+Commercial Property Policy,Freddie Mac | Multi-Family,12/10/2023,12/10/2024,SummitSafe Insurance,1,TX,77004,38621,3000000,10000
+Commercial Property Policy,Freddie Mac | Multi-Family,2/14/24,2/14/25,VitalGuard Insurance,1,NC,27106,22870,5414500,5000
+Commercial Property Policy,Freddie Mac | Multi-Family,2/14/24,2/14/25,VitalGuard Insurance,1,NC,27106,17153,5268000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,01/09/2024,01/09/2025,GuardianTrust Insurance,1,CA,90302,N/A,1133240,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,06/04/2023,06/04/2024,GuardianTrust Insurance,1,CA,90043,10731.44,1512000,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,2/13/24,2/13/25,TerraSafe Insurance,1,CA,90043,9598,2235201,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,03/05/2024,03/05/2025,InfinityShield Insurance,1,CA,90022,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,TitanSafe Assurance,1,PA,19119,13534.7,5000000,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,CO,81520,16719.34,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,CO,81520,12459.06,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/01/2023,11/01/2024,CoralShield Insurance,1,MD,20743,17463,119974941,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,11/01/2023,11/01/2024,CoralShield Insurance,1,MD,20743,1000,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,2/26/24,2/26/25,SummitGuard Insurance,3,"TX, TX, TX","77004, 77004, 77004","38158, 0, 0","N/A, N/A, N/A","N/A, N/A, N/A"
+Umbrella Liability Policy,Freddie Mac | Multi-Family,2/26/24,2/26/25,SummitGuard Insurance,3,"TX, TX, TX","77004, 77004, 77004","6352, 0, 3206","N/A, N/A, N/A","N/A, N/A, N/A"
+Auto Liability Policy,Freddie Mac | Multi-Family | SBL,3/25/23,3/25/24,Prestige Protectors,1,CA,90280,0,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family | SBL,2/28/24,2/28/25,UnityGuard Insurance,1,CA,90660,1650,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,07/01/2023,07/01/2024,ValorGuard Assurance,1,PA,19119,6180.8,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,InfinityShield Insurance,1,PA,19119,N/A,N/A,N/A
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,9/30/23,9/30/24,VanguardSafe Insurance,1,SC,29681,93893,30823940,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,9/30/23,9/30/24,VanguardSafe Insurance,1,SC,29681,10200,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,HorizonGuard Insurance,1,FL,32801,N/A,77000000,50000
+General Liability Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,VictorySafe Assurance,1,FL,32801,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,EverBright Assurance,1,FL,32801,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,6/20/23,6/20/24,VitalSafe Insurance,1,WA,98660,152309,500000000,25000
+General Liability Policy,Freddie Mac | Multi-Family,6/20/23,6/20/24,ZenithSafe Assurance,1,WA,98660,11728,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,CO,81625,20175.78,61637090,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,6/20/23,6/20/24,SummitShield Insurance,1,WA,98660,6393,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,CO,81625,73245.52,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,IA,50613,17011.54,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,IA,52003,N/A,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,IN,46947,10362.18,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,IA,52240,18224.3,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,TX,77657,10653.87,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,IA,50622,11080.59,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,MI,49415,14354.87,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,MI,49068,12167.52,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,NE,68847,32636.58,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,NE,68521,33347.69,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,NE,68122,24959.66,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,NE,68112,16728.45,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,OH,43201,N/A,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,OH,45414,63974.88,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,OH,45431,18659.64,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,OH,43044,3839.59,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,PA,15666,12941.74,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,SC,29651,N/A,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,SD,57703,29913.64,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,SD,57201,8324.56,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,SC,29483,N/A,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,TX,78521,21534.39,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,TX,77803,5498.06,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,TX,76548,29383.21,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,TX,78039,11748.3,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,TX,75702,23222.67,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,WI,54729,N/A,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,WI,53959,N/A,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,WY,82007,8001.24,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,WY,82007,7751.56,61637090,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,TrueSafe Insurance,1,NE,68601,12648.59,61637090,10000
+Auto Liability Policy,Freddie Mac | Multi-Family,6/20/23,6/20/24,TerraSafe Insurance,1,WA,98660,0,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,3/19/24,6/30/24,ApexGuard Insurance,1,WA,98133,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/08/2024,04/08/2025,CrestSafe Assurance,1,DC,20032,N/A,3550000,10000
+Earthquake Policy,Freddie Mac | Multi-Family,3/19/24,3/19/25,HorizonGuard Insurance,1,WA,98133,2796.25,2000000,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,06/11/2023,06/11/2024,UnityShield Insurance,1,OH,45431,15490,3921420,25000
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/24/23,12/24/24,UnityShield Insurance,1,OH,44446,75323,22269624,50000
+Commercial Property Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,NationalSafe Insurance,1,LA,70458,50876,19220000,10000
+General Liability Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,EquitableGuard Insurance,1,LA,70458,31528,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,EquitableGuard Insurance,1,LA,70458,31528,N/A,N/A
+Terrorism Liability Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,HorizonGuard Insurance,1,LA,70458,31528,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,TrueGuard Insurance,1,NY,11735,N/A,N/A,N/A
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,04/09/2024,04/09/2025,VanguardShield Insurance,1,AZ,85013,4955.67,1472074,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/09/2024,04/09/2025,ApexGuard Insurance,1,AZ,85013,825,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,1/31/24,1/31/25,HeritageGuard Insurance,1,TX,77084,430844.35,44327174,100000
+General Liability Policy,Freddie Mac | Multi-Family,7/28/23,7/28/24,ApexGuard Assurance,1,TX,77084,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,7/28/23,7/28/25,BrightGuard Assurance,1,TX,77084,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,SummitShield Insurance,1,NY,11735,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,02/03/2024,02/03/2025,GuardianTrust Insurance,1,NC,28105,152836,300000000,25000
+General Liability Policy,Freddie Mac | Multi-Family,02/03/2024,02/03/2025,CrestShield Insurance,1,NC,28105,18324,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,02/03/2024,02/03/2025,EverTrust Insurance,1,NC,28105,20299,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,02/03/2024,02/03/2025,DiamondSafe Assurance,1,NC,28105,0,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,02/03/2024,02/03/2025,EliteGuard Assurance,1,NC,28105,N/A,300000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,SummitSafe Assurance,1,FL,32801,298014.12,91333375,25000
+General Liability Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,BrightShield Insurance,1,FL,32801,53309.65,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,Paramount Protectors,1,FL,32801,8175.5,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,4/25/24,4/25/25,EquinoxGuard Assurance,1,NJ,7024,68717,28416000,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,4/25/24,4/25/25,SecurePoint Insurance,1,NJ,7024,N/A,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,04/08/2024,04/08/2025,CrestSafe Assurance,1,DC,20032,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,2/14/24,2/14/25,VitalGuard Insurance,1,NC,27106,17153,2804200,5000
+General Liability Policy,Freddie Mac | Multi-Family,2/14/24,2/14/25,ZenithGuard Insurance,1,NC,27106,6896,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,02/07/2024,02/07/2025,EverSafe Insurance,1,CA,94803,9527,143869000,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,02/07/2024,02/07/2025,FrontierSafe Assurance,1,CA,94803,868,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,4/22/24,4/22/25,GenesisSafe Insurance,1,TX,78046,51948,6495817,10000
+Commercial Property Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,NationalSafe Insurance,1,IN,46075,73249.09,29800000,10000
+General Liability Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,EquitableGuard Insurance,1,IN,46075,5280,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,EquitableGuard Insurance,1,IN,46075,5280,N/A,N/A
+Terrorism Package Policy,Freddie Mac | Multi-Family,3/31/24,3/31/25,HorizonGuard Insurance,1,IN,46075,5280,29800000,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,4/22/24,4/22/25,GoldenSafe Assurance,1,TX,78046,51948,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,9/30/23,9/30/24,HeritageGuard Assurance,1,MD,21201,135076,78238466,10000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,HorizonSafe Assurance,1,MD,21201,39626,N/A,N/A
+Flood Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,Pinnacle Protectors,1,IA,50622,N/A,N/A,N/A
+Flood Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,Pinnacle Protectors,1,NE,68122,11306.47,N/A,N/A
+Flood Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,Pinnacle Protectors,1,SD,57201,N/A,N/A,N/A
+Flood Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,Pinnacle Protectors,1,TX,78039,N/A,N/A,N/A
+Flood Policy,Freddie Mac | Multi-Family,11/10/2023,11/10/2024,Pinnacle Protectors,1,WY,82007,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,2/13/24,2/13/25,AtlasGuard Insurance,1,CA,90043,1116.24,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,06/04/2023,06/04/2024,GuardianTrust Insurance,1,CA,90043,775,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,4/15/24,4/15/25,Zenith Assurance,1,NY,10701,6600,1050028,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,4/15/24,4/15/25,LegacyGuard Assurance,1,NY,10701,1500,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,4/15/24,4/15/25,Zenith Assurance,1,NY,10701,8600,1610000,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,4/15/24,4/15/25,LegacyGuard Assurance,1,NY,10701,1500,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,4/15/24,4/15/25,Zenith Assurance,1,NY,10701,8100,1550000,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,4/15/24,4/15/25,LegacyGuard Assurance,1,NY,10701,1500,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,NC,28314,N/A,26233200,250000
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverSafe Assurance,1,NC,28314,N/A,26233200,N/A
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,NC,28314,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,NC,28314,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,4/19/24,4/19/25,CrestShield Insurance,1,CA,95811,148967.16,46470854,50000
+General Liability Policy,Freddie Mac | Multi-Family,4/19/24,4/19/25,BrightShield Insurance,1,CA,95811,33567.6,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/01/2023,12/01/2024,ZenithGuard Insurance,1,IL,60048,N/A,1601600,2500
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/01/2023,12/01/2024,ZenithGuard Insurance,1,IL,60048,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/10/2024,04/10/2025,MeridianSafe Insurance,1,OK,73045,58623.19,9639000,50000
+General Liability Policy,Freddie Mac | Multi-Family,04/10/2024,04/10/2025,NationalShield Assurance,1,OK,73045,5063.36,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/10/2024,04/10/2025,AtlasGuard Insurance,1,OK,73045,1264.54,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,3/30/24,3/30/25,UnityTrust Insurance,1,NY,11211,8029.25,1236000,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,3/30/24,3/30/25,UnityTrust Insurance,1,NY,11211,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EquitableGuard Insurance,1,MD,21201,58608.76,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,07/01/2023,07/01/2024,NexusSafe Insurance,1,NV,89011,56772.49,569853553,25000
+Auto Liability Policy,Freddie Mac | Multi-Family,07/01/2023,07/01/2024,ParamountGuard Assurance,1,NV,89011,5822,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,07/01/2023,07/01/2024,ParamountGuard Assurance,1,NV,89011,19638.02,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,4/19/24,4/19/25,BrightShield Insurance,1,CA,95811,13882.06,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/19/23,5/19/24,PrestigeGuard Assurance,1,FL,33401,N/A,75491891,50000
+General Commercial Package Policy,Freddie Mac | Multi-Family,06/05/2024,06/05/2025,ProShield Insurance,1,NC,28081,21353,6139000,25000
+Wind/Hail Policy,Freddie Mac | Multi-Family,5/19/23,5/19/24,PrestigeGuard Assurance,1,FL,33401,N/A,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,5/19/23,5/19/24,EverBright Assurance,1,FL,33401,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/26/23,5/19/24,EliteSafe Insurance,1,FL,33401,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,ReliableSafe Assurance,1,TX,77388,N/A,17200000,25000
+General Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,GuardianTrust Insurance,1,TX,77388,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,QuantumSafe Assurance,1,TX,77388,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,6/18/23,6/18/24,TrueNorth Insurance,1,AL,36695,108356.38,11612340,100000
+General Liability Policy,Freddie Mac | Multi-Family,6/18/23,6/18/24,GoldenGuard Insurance,1,AL,36695,13087.82,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,7/18/23,7/18/24,ZenithGuard Insurance,1,AL,36695,5483.13,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,6/18/23,6/18/24,VictoryGuard Insurance,1,AL,36695,5247,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,CrestGuard Insurance,1,LA,70403,18610.93,494400,0
+General Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,BrightLine Insurance,1,LA,70403,2617,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,7/28/23,7/28/24,RadiantGuard Assurance,1,LA,70454,13090.21,689980,1000
+Commercial Property Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,CrestGuard Insurance,1,LA,70433,37464,900335,0
+General Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,BrightLine Insurance,1,LA,70433,4091.3,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,10/01/2023,10/01/2024,ReliableGuard Assurance,1,DC,20010,157243.76,46092020,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,10/01/2023,10/01/2024,AtlasGuard Insurance,1,DC,20010,28237.41,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EquinoxShield Insurance,1,LA,70360,250865,9888585,100000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverBright Assurance,1,LA,70360,10735,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,SecureShield Insurance,1,LA,70360,8811,N/A,N/A
+Wind/Hail Policy,Freddie Mac | Multi-Family,04/01/2025,04/01/2025,SentinelShield Assurance,1,LA,70360,N/A,9888585,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,05/07/2024,05/07/2025,VictoryGuard Insurance,1,DC,20032,N/A,N/A,N/A
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family,5/24/24,5/24/25,QuantumGuard Insurance,1,UT,84115,13266.96,4371600,50000
+Commercial Property Policy,Freddie Mac | Multi-Family,12/01/2023,12/01/2024,HorizonGuard Insurance,1,PA,19107,58705,200000000,100000
+General Liability Policy,Freddie Mac | Multi-Family,12/01/2023,12/01/2024,ProSafe Assurance,1,PA,19107,8305,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,12/01/2023,12/01/2024,GlobalGuard Insurance,1,PA,19107,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,04/08/2024,04/08/2025,CrestSafe Assurance,1,DC,20032,26038.56,3550000,10000
+Commercial Property Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,ProSafe Assurance,1,MA,1880,179427,60132155,25000
+General Liability Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,EquitableGuard Insurance,1,MA,1880,179427,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,GoldenShield Insurance,1,MA,1880,179427,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,SkyShield Insurance,1,MA,1880,179427,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,EverTrust Insurance,1,MA,1880,179427,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,7/28/23,7/28/24,RadiantGuard Assurance,1,LA,70454,260,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,NC,27616,40288,450000000,250000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,NC,27616,40892,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,NC,27616,12722,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverSafe Assurance,1,NC,27616,N/A,450000000,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,5/20/24,5/20/25,UnityTrust Insurance,1,TX,77388,158193,18500000,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/20/24,5/20/25,QuantumSafe Assurance,1,TX,77388,3968.8,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,SC,29732,41927,450000000,250000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,SC,29732,48108,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,SC,29732,14967,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverSafe Assurance,1,SC,29732,N/A,450000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,PA,17408,36790,450000000,250000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,PA,17408,34363,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,PA,17408,10691,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverSafe Assurance,1,PA,17408,N/A,450000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,NC,27529,29094,450000000,250000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,NC,27529,35738,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,NC,27529,11119,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverSafe Assurance,1,NC,27529,N/A,450000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,MD,21236,66759,450000000,250000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,MD,21236,59792,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,MD,21236,18602,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverSafe Assurance,1,MD,21236,N/A,450000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,MD,20653,43251,450000000,250000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,MD,20653,61510,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,MD,20653,19137,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverSafe Assurance,1,MD,20653,N/A,450000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,SC,29072,29043,450000000,250000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,SC,29072,34363,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,SC,29072,10691,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverSafe Assurance,1,SC,29072,N/A,450000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,MD,21228,53275,450000000,250000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,MD,21228,53606,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,MD,21228,16678,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverSafe Assurance,1,MD,21228,N/A,450000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,MD,21061,55295,450000000,250000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,MD,21061,60479,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,MD,21061,18816,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverSafe Assurance,1,MD,21061,N/A,450000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,3/13/24,3/13/25,GlobalGuard Insurance,1,CA,94102,87302,350000000,100000
+General Liability Policy,Freddie Mac | Multi-Family,6/14/24,6/14/25,SummitSafe Insurance,1,CA,94102,25526,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,6/14/24,6/14/25,GoldenGuard Insurance,1,CA,94102,26316,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,HorizonGuard Insurance,1,AZ,85019,269091.05,201941729,25000
+General Liability Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,QuantumShield Insurance,1,AZ,85019,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,QuantumShield Insurance,1,AZ,85019,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,SkyGuard Assurance,1,NY,11101,80263.35,14500000,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,12/01/2023,12/01/2024,GlobalGuard Insurance,1,PA,19107,15100,N/A,N/A
+Boiler and Machinery / Equipment Breakdown Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarShield Insurance,1,NY,11101,80263.35,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,HorizonGuard Insurance,1,AZ,85019,269091,201941729,25000
+General Liability Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,QuantumShield Insurance,1,AZ,85019,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,QuantumShield Insurance,1,AZ,85019,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,LibertyShield Insurance,1,AZ,85019,N/A,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,HorizonGuard Insurance,1,AZ,85019,N/A,100000000,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,LibertyShield Insurance,1,AZ,85019,N/A,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,HorizonGuard Insurance,1,AZ,85019,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/22/24,5/22/25,VictoryGuard Insurance,1,DC,20032,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,11/15/23,11/15/24,SummitShield Assurance,1,OH,44311,56564.66,192542052,10000
+Auto Liability Policy,Freddie Mac | Multi-Family,11/15/23,11/15/24,TerraShield Insurance,1,OH,44311,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,11/15/23,11/15/24,GlobalGuard Insurance,1,OH,44311,1833.63,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,ProSafe Assurance,1,VA,22102,N/A,99486468,25000
+General Liability Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,EquitableGuard Insurance,1,VA,22102,261954,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,01/01/2024,01/01/2025,GoldenShield Insurance,1,VA,22102,261954,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,2/14/24,2/14/25,VanguardShield Insurance,1,CA,90057,N/A,918320,5000
+General Liability Policy,Freddie Mac | Multi-Family,2/14/24,2/14/25,SecureGuard Insurance,1,CA,90057,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,2/14/24,2/14/25,VanguardShield Insurance,1,CA,90057,N/A,631732,5000
+General Liability Policy,Freddie Mac | Multi-Family,2/14/24,2/14/25,SecureGuard Insurance,1,CA,90057,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,06/04/2024,06/04/2025,PrimeGuard Insurance,1,CA,94102,N/A,55544854,50000
+Commercial Property Policy,Freddie Mac | Multi-Family,06/07/2024,06/07/2025,NovaShield Insurance,1,AL,36695,147648.66,6850000,50000
+General Liability Policy,Freddie Mac | Multi-Family,06/07/2024,06/07/2025,SafeHarbor Insurance,1,AL,36695,17862.06,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,06/07/2024,06/07/2025,VictoryGuard Insurance,1,AL,36695,9603.6,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,07/01/2024,07/01/2025,Zenith Shield Insurance,1,CA,90057,26293.7,4119705,10000
+Boiler and Machinery / Equipment Breakdown Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,FrontierGuard Insurance,1,AZ,85019,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,9/20/23,9/20/24,SummitSafe Assurance,1,FL,32819,N/A,85193000,25000
+General Liability Policy,Freddie Mac | Multi-Family,9/20/23,9/20/24,TitanGuard Assurance,1,FL,32819,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,9/20/23,9/20/24,BrightGuard Assurance,1,FL,32819,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,Sentinel Assurance,1,NJ,7712,28468,19800000,10000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,TrueGuard Assurance,1,NJ,7712,17629,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EverTrust Insurance,1,NJ,7712,2498,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EliteSafe Insurance,1,NJ,7712,2498,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,HorizonGuard Insurance,1,NJ,7712,2888,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,6/19/24,6/19/25,UnitySafe Insurance,1,NJ,7712,42612,10300000,10000
+General Liability Policy,Freddie Mac | Multi-Family,6/19/24,6/19/25,UnitySafe Insurance,1,NJ,7712,42612,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,9/16/23,9/16/24,LegacySafe Assurance,1,OH,43232,N/A,57035088,100000
+General Liability Policy,Freddie Mac | Multi-Family,4/19/24,4/19/25,ValorGuard Insurance,1,OH,43232,N/A,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,10/04/2023,9/16/24,UnityShield Insurance,1,OH,43232,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,2/28/24,2/28/25,VanguardSafe Insurance,1,NC,27704,105895,242679781,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,2/28/24,2/28/25,QuantumSafe Assurance,1,NC,27704,17150.17,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,BrightLine Insurance,1,TX,78413,116219.82,13444080,100000
+Terrorism Property Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,HorizonGuard Insurance,1,TX,78413,N/A,13444080,N/A
+General Liability Policy,Freddie Mac | Multi-Family,12/14/23,12/14/24,BrightShield Insurance,1,TX,78413,18401.2,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,2/19/24,2/19/25,QuantumSafe Assurance,1,TX,78413,3128,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,9/30/23,9/30/24,PrestigeGuard Assurance,1,CT,6902,N/A,73159440,25000
+Terrorism Liability Policy,Freddie Mac | Multi-Family,9/30/23,9/30/24,HorizonGuard Insurance,1,CT,6902,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,9/30/23,9/30/24,VanguardShield Assurance,1,CT,6902,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,GuardianTrust Insurance,1,WI,53562,91709.05,200000000,25000
+General Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,SafeHarbor Insurance,1,WI,53562,12534.9,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,VictoryGuard Assurance,1,WI,53562,5372.1,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,EquitableGuard Insurance,1,WI,53562,55343,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,GuardianTrust Insurance,1,WI,53132,106767,200000000,100000
+General Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,SafeHarbor Insurance,1,WI,53132,8921,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,VictoryGuard Assurance,1,WI,53132,8921,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,5/22/24,5/22/25,LegacyShield Insurance,1,TX,77017,N/A,7525200,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/22/24,5/22/25,Frontier Assurance,1,TX,77017,N/A,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,HorizonGuard Insurance,1,WI,53562,16183.95,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,VitalGuard Assurance,1,TX,77351,35495.89,10000000,25000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,QuantumShield Insurance,1,TX,77351,8455.26,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,QuantumShield Insurance,1,TX,77351,8455.26,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,HorizonGuard Insurance,1,TN,38016,251015,150000000,25000
+Terrorism Property Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,ZenithGuard Assurance,1,TN,38016,251015,50000000,N/A
+General Liability Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,ApexSafe Assurance,1,TN,38016,11919,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,BrightLine Insurance,1,TN,38016,14593,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,12/28/23,12/28/24,BrightSafe Insurance,1,TX,76541,N/A,2100000,2500
+General Commercial Package Policy,Freddie Mac | Multi-Family,02/07/2024,02/07/2025,EverSafe Insurance,1,CA,95660,23968,143869000,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,02/07/2024,02/07/2025,FrontierSafe Assurance,1,CA,95660,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family | SBL,8/20/23,8/20/24,CrestGuard Assurance,1,MN,55410,N/A,8044460,10000
+General Commercial Package Policy,Freddie Mac | Multi-Family,06/08/2024,06/08/2025,CrestGuard Assurance,1,NM,87112,23904,5307333,5000
+Commercial Property Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,ZenithGuard Assurance,1,MN,55316,47034,150000000,25000
+General Liability Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,ApexSafe Assurance,1,MN,55316,4984,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,BrightLine Insurance,1,MN,55316,9310.68,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,ZenithGuard Assurance,1,MN,55316,47034.24,50000000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,ZenithGuard Assurance,1,MN,55316,47759.49,150000000,25000
+Terrorism Property Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,ZenithGuard Assurance,1,MN,55316,47759.49,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,ApexSafe Assurance,1,MN,55316,4847.85,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,BrightLine Insurance,1,MN,55316,9310.68,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,4/24/24,4/24/25,DiamondGuard Assurance,1,OH,45211,N/A,2553600,10000
+General Liability Policy,Freddie Mac | Multi-Family,4/24/24,4/24/25,DiamondGuard Assurance,1,OH,45211,N/A,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,6/19/24,6/19/25,Prestige Protectors,1,TX,77017,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,GuardianTrust Insurance,1,WI,53714,155626.2,200000000,25000
+General Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,VictoryGuard Assurance,1,WI,53714,18618.6,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,HorizonGuard Insurance,1,WI,53714,172918,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,VictoryGuard Assurance,1,WI,53714,7979.4,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,4/25/24,4/25/25,TitanGuard Insurance,1,SC,29203,N/A,22432800,50000
+General Liability Policy,Freddie Mac | Multi-Family,4/25/24,4/25/25,EverBright Assurance,1,SC,29203,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,4/25/24,4/25/25,AtlasGuard Insurance,1,SC,29203,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,7/17/24,7/17/25,Frontier Assurance,1,OH,45211,12173,2959200,15000
+General Commercial Package Policy,Freddie Mac | Multi-Family,6/27/24,6/27/25,GuardianTrust Insurance,1,CA,90057,5967,979020,5000
+General Commercial Package Policy,Freddie Mac | Multi-Family,07/05/2024,07/05/2025,GuardianTrust Insurance,1,CA,90057,N/A,881732,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,EquitableGuard Insurance,1,WI,53714,82201,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/15/24,5/15/25,EquitableGuard Insurance,1,WI,53132,55140,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family | Conventional,10/28/23,10/28/24,QuantumGuard Insurance,1,Wa,98498,48665.51,32195276,25000
+General Commercial Package Policy,Freddie Mac | Multi-Family | Conventional,08/12/2023,08/12/2024,BrightLine Insurance,1,LA,70546,N/A,116000,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/27/24,5/27/25,BrightLine Insurance,1,TX,78413,121500,11193889,100000
+General Commercial Package Policy,Freddie Mac | Multi-Family,10/01/2023,10/01/2024,Frontier Assurance,1,GA,30909,N/A,39056300,50000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,10/01/2023,10/01/2024,Frontier Assurance,1,GA,30909,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,6/27/24,6/27/25,EliteSafe Assurance,1,CA,90057,1629.04,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,07/05/2024,07/05/2025,EliteSafe Assurance,1,CA,90057,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family | SBL,08/02/2023,08/02/2025,GenesisGuard Insurance,1,CA,90404,N/A,1620300,25000
+General Commercial Package Policy,Freddie Mac | Multi-Family | SBL,10/28/23,10/28/24,Frontier Assurance,1,WA,98002,N/A,5707800,10000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,6/19/24,6/19/25,UnitySafe Insurance,1,NJ,7712,2483.36,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family | SBL,8/20/23,8/20/24,GlobalGuard Insurance,1,MN,55410,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,EquinoxSafe Insurance,1,NJ,7712,42702,193000000,10000
+Business Owners Package (BOP) Policy ,Freddie Mac | Multi-Family | SBL,10/28/23,10/28/24,QuantumGuard Insurance,1,WA,98002,N/A,7250000,25000
+General Commercial Package Policy,Freddie Mac | Multi-Family,10/27/23,10/27/24,UnityTrust Insurance,1,NY,11212,N/A,2647756,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,10/27/23,10/27/24,UnityTrust Insurance,1,NY,11212,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,10/27/23,10/27/24,UnityTrust Insurance,1,NY,11203,N/A,2265303,5000
+Umbrella Liability Policy,Freddie Mac | Multi-Family,10/27/23,10/27/24,UnityTrust Insurance,1,NY,11203,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,SummitSafe Assurance,1,TX,77051,N/A,125000000,100000
+General Commercial Package Policy,Freddie Mac | Multi-Family,5/28/24,5/28/25,EverGuard Assurance,1,MD,20763,N/A,148822390,50000
+Terrorism Package Policy,Freddie Mac | Multi-Family,5/28/24,5/28/25,HorizonGuard Insurance,1,MD,20763,N/A,148822390,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,5/28/24,5/28/25,FrontierGuard Assurance,1,MD,20763,N/A,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,5/31/24,5/31/25,HorizonGuard Insurance,1,TX,77051,N/A,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,GenesisGuard Assurance,1,TX,77051,15121.13,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,10/01/2023,10/01/2024,GoldenGuard Assurance,1,TX,77051,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,09/01/2023,09/01/2024,Paramount Protectors,1,TX,77051,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family,07/03/2024,07/03/2025,TerraGuard Insurance,1,RI,2911,N/A,1900000,2500
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,WA,99216,N/A,200000000,100000
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,WA,99216,N/A,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,HeritageSafe Insurance,1,WA,99216,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,WA,99216,N/A,N/A,N/A
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,HorizonGuard Insurance,1,WA,99216,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,07/01/2024,07/01/2025,HorizonGuard Insurance,1,MO,64132,N/A,150000000,100000
+General Liability Policy,Freddie Mac | Multi-Family,07/01/2024,07/01/2025,HorizonGuard Assurance,1,MO,64132,N/A,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,07/01/2024,07/01/2025,QuantumGuard Assurance,1,MO,64132,N/A,N/A,N/A
+Terrorism Liability Policy,Freddie Mac | Multi-Family,07/01/2024,07/01/2025,LegacySafe Insurance,1,MO,64132,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,07/01/2024,07/01/2025,GoldenShield Insurance,1,MO,64132,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,07/09/2024,07/09/2025,LibertySafe Assurance,1,CA,90057,5762.12,950000,5000
+General Liability Policy,Freddie Mac | Multi-Family,07/09/2024,07/09/2025,GuardianTrust Insurance,1,CA,90057,2775,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,07/09/2024,07/09/2025,InfinityShield Insurance,1,CA,90057,5967,1086667,5000
+General Liability Policy,Freddie Mac | Multi-Family,07/09/2024,07/09/2025,LibertySafe Assurance,1,CA,90057,7596.04,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LibertyShield Insurance,1,WA,98133,N/A,200000000,100000
+General Commercial Package Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,UnityTrust Insurance,1,NY,11203,N/A,9614384,10000
+Terrorism Property Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,HorizonGuard Insurance,1,WA,98133,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,VitalGuard Assurance,1,NY,11203,N/A,N/A,N/A
+General Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,StarSafe Assurance,1,WA,98133,N/A,N/A,N/A
+Auto Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,HeritageSafe Insurance,1,WA,98133,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,04/01/2024,04/01/2025,LifetimeGuard Assurance,1,WA,98133,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,7/15/24,7/15/25,BrightGuard Assurance,1,OH,43232,N/A,N/A,N/A
+Commercial Property Policy,Freddie Mac | Multi-Family,08/08/2024,12/15/24,Sentinel Assurance,1,TX,77856,N/A,3128920,25000
+General Liability Policy,Freddie Mac | Multi-Family,08/08/2024,08/08/2025,GuardianTrust Insurance,1,TX,77856,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,08/08/2024,08/08/2025,QuantumSafe Assurance,1,TX,77856,N/A,N/A,N/A
+Umbrella Liability Policy,Freddie Mac | Multi-Family,07/09/2024,07/09/2025,VictoryGuard Insurance,1,TX,76541,N/A,N/A,N/A
+General Commercial Package Policy,Freddie Mac | Multi-Family | SBL,11/20/23,11/20/24,NovaShield Insurance,1,TX,75206,N/A,2350000,25000
+Umbrella Liability Policy,Freddie Mac | Multi-Family | SBL,11/20/23,11/20/24,SecurePoint Insurance,1,TX,75206,N/A,N/A,N/A
